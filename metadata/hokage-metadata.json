@@ -1,0 +1,24 @@
+{
+  "description": "Ninja Cards",
+  "external_url": "https://cryptoshuriken.com",
+  "image": "ipfs://QmfExSLtVQwsFJNcN6AaW8DZsrL9CYsbHmxVdeLWkRzuyj",
+  "name": "Lord Hokage",
+  "attributes": [
+    {
+      "trait_type": "Rank",
+      "value": "Hokage"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Ultra Rare"
+    },
+    {
+      "trait_type": "Graphic",
+      "value": "Pixelated"
+    },
+    {
+      "trait_type": "Inspired by",
+      "value": "Naruto"
+    }
+  ]
+}

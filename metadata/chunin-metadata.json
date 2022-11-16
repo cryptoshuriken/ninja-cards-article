@@ -1,0 +1,24 @@
+{
+  "description": "Ninja Cards",
+  "external_url": "https://cryptoshuriken.com",
+  "image": "ipfs://QmY8xC7cjMahXnn4htoywYkG4QjpLa1MCthVLd6VE2M6Qc",
+  "name": "Chunin Ninja",
+  "attributes": [
+    {
+      "trait_type": "Rank",
+      "value": "Chunin"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Graphic",
+      "value": "Pixelated"
+    },
+    {
+      "trait_type": "Inspired by",
+      "value": "Naruto"
+    }
+  ]
+}

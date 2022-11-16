@@ -1,0 +1,24 @@
+{
+  "description": "Ninja Cards",
+  "external_url": "https://cryptoshuriken.com",
+  "image": "ipfs://QmRVPdvBL3ERRv4K9LhGq2btToTjbzUZAB6XNbkBmbZtDU",
+  "name": "Jonin Ninja",
+  "attributes": [
+    {
+      "trait_type": "Rank",
+      "value": "Jonin"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Super Rare"
+    },
+    {
+      "trait_type": "Graphic",
+      "value": "Pixelated"
+    },
+    {
+      "trait_type": "Inspired by",
+      "value": "Naruto"
+    }
+  ]
+}
